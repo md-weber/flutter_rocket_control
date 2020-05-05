@@ -1,8 +1,7 @@
 # Flutter Rocket Control
 
-Recreation of the CodePen challenge for Flutter. 
+Recreation of the [CodePen challenge](https://codepen.io/challenges/2020/may/) for Flutter. 
 
-https://codepen.io/challenges/2020/may/
 https://codepen.io/md-weber/pen/wvKpRXJ
 
 Feel free to join the fun and show CodePen that Flutter cannot be ignored :).
