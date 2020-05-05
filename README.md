@@ -1,4 +1,4 @@
-# flutterrocketcontrol
+# Flutter Rocket Control
 
 Recreation of the CodePen challenge for Flutter. 
 
